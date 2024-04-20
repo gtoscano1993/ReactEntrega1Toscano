@@ -1,0 +1,9 @@
+*{margin: 0;
+  padding: 0;
+}
+head, body, footer{
+    background-color: rgb(43, 43, 43);}
+
+.textoFooter{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
